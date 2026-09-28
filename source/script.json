@@ -1,0 +1,282 @@
+[
+  {
+    "id": "4",
+    "title": "Registration & guest arrival",
+    "time": "6:00 PM",
+    "blocks": [
+      {
+        "row": 4,
+        "text": "Good evening, everyone! While you're getting registered, finding your seats, and enjoying the music, we'd like to invite you to check out our 360° Photo Booth.\n\nWe're holding a special contest tonight for the most creative video — and there's a cash prize on the line. Just step onto the platform, have some fun, and show us what you've got.\n\nOnce you've got your shot, post it to Facebook or Instagram and tag it with #TopnatchFreightAt30 — that's how you're officially entered. Entries close at 8:00 PM, so don't wait too long.\n\nOur judges will be reviewing entries throughout the evening, and we'll reveal the winning video right here on the LED screen at 8:35 PM.\n\nSo if you haven't tried it yet, make sure you get a spin in!\n\n[REPEAT THIS SPIEL TWICE: 6:00PM & 6:15PM)"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Grand opening & prayer",
+    "time": "6:30 PM",
+    "blocks": [
+      {
+        "row": 5,
+        "text": "Good evening, everyone, and welcome! My name is CJ Villavicencio, and it’s my pleasure to be your host for tonight’s celebration.\n\nIt’s wonderful to see all of you here this evening. We hope you’ve had a chance to settle in, enjoy the music, and catch up with friends and colleagues.\n\nTonight, we come together to celebrate Topnatch Freight International Inc.’s 30 years of service, dedication, and milestones. We’re very happy to have all of you with us, and we look forward to sharing a memorable evening together.\n\nAnd now, as we officially begin our program, let us take a moment to pause, give thanks, and ask for God’s guidance as we mark this important milestone.\n\nTo lead us in our opening prayer, may we invite Pastor Rey Soriano to the stage.\n\nPastor Rey, please join us!"
+      },
+      {
+        "row": 6,
+        "text": "(PRAYER)"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Boss Emil opening remarks",
+    "time": "6:35 PM",
+    "blocks": [
+      {
+        "row": 7,
+        "text": "Thank you very much, Pastor Rey, for leading us in that prayer.\n\nAnd now, to formally welcome everyone and share a few words as we begin tonight’s celebration, please join me in giving a warm round of applause to Topnatch Freight International Inc.’s CEO and President, Boss Imelda \"Emil\" M. Calangi, as we welcome her to the stage!"
+      },
+      {
+        "row": 8,
+        "text": "(CEO OPENING REMARKS)"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Company presentation",
+    "time": "6:50 PM",
+    "blocks": [
+      {
+        "row": 9,
+        "text": "Thank you, Boss Emil, for those wonderful words and for giving us a glimpse into the journey that has brought us to where we are today.\n\nAs we look back on what we’ve accomplished, it’s also exciting to see what lies ahead. There’s certainly a lot to look forward to, and we’d like to take this opportunity to share more about our recent milestones, our journey, and the plans we have for the future.\n\nTo take us through our Company Presentation, please direct your attention to the screens and join me in welcoming Camille Cabujat, our Senior Commercial Manager to the stage."
+      },
+      {
+        "row": 10,
+        "text": "(COMPANY PRESENTATION)"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Dinner & live performances",
+    "time": "7:00 PM",
+    "blocks": [
+      {
+        "row": 11,
+        "text": "Thank you, Camille, for taking us through that presentation and giving us a closer look at where we’ve been and where we’re headed.\n\nBefore we begin dinner, we’d like to take a moment to give thanks and bless the meal that has been prepared for us this evening. May we invite Pastor Godofredo Gan to lead us in prayer.\n\n[Prayer]\n\nThank you, Pastor Gan.\n\nAnd while dinner is being served, we’d also like to remind everyone to take part in our 360° Photo Booth Contest!\n\nIf you haven’t had the chance to try it yet, head over to the 360° booth, step onto the platform, and show us your most creative video. There’s a cash prize waiting for our winner, so have some fun and get creative!\n\nOnce you’ve got your shot, simply post it on Facebook or Instagram and tag it with #TopnatchFreightAt30 to officially enter the contest. Remember, entries are open until 8:00 PM, so make sure you get your entry in before then.\n\nEntries close at 8:00 PM. Our judges will make their final selection between 8:00 and 8:15 PM, and we’ll reveal the winning video right here on the LED screen at 8:35 PM.\n\nSo, if you haven’t gotten your spin yet, this is your chance!\n\nAnd now, dinner is officially served. Please feel free to make your way to the food stations whenever you’re ready, settle in, and enjoy the delicious food prepared for you tonight, along with the live music we have lined up this evening.\n\nEnjoy your dinner, everyone. We’ll be back shortly!"
+      },
+      {
+        "row": 12,
+        "text": "(DINNER/1ST BAND SET)"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Spin-the-Wheel · 20 winners",
+    "time": "7:45 PM",
+    "blocks": [
+      {
+        "row": 13,
+        "text": "Has everyone had a good dinner? The food stations remain open, so please help yourselves as we continue.\n\nIt’s time for Spin-the-Wheel! Everyone who registered with their name and company is in the draw. We have 20 winners tonight: five prizes of PHP 1,000, ten of PHP 1,500, and five of PHP 2,000.\n\nFor each draw, we reveal the cash prize first, then spin the wheel for the winner. When your name is called, please stand within 10 seconds so we can find you. If no one responds, we redraw. Then head to Kent Medina beside the stage to claim your prize. We’ll continue drawing without waiting for each claim.\n\nReady? Let’s reveal our first cash prize!\n\n[Randomize prize value / follow approved fixed sequence]\n\nPHP [PRIZE VALUE]! Who will take it home?\n\n[Spin the winner wheel]\n\n[Winner Name]! Congratulations! Please stand and head to Kent beside the stage.\n\n[Winner stands / allow up to 10 seconds; redraw if absent]"
+      },
+      {
+        "row": 14,
+        "text": "WINNER 2:\n\n[Randomize prize value / follow approved fixed sequence]\n\nNext prize: PHP [PRIZE VALUE]! Let’s see who wins.\n\n[Spin the winner wheel]\n\n[Winner Name]! Congratulations! Please stand and head to Kent.\n\n[Winner stands / allow up to 10 seconds; redraw if absent]\n\nWINNERS 3–19:\n\n[Randomize prize value / follow approved fixed sequence]\n\nNext prize: PHP [PRIZE VALUE]! Let’s see who wins.\n\n[Spin the winner wheel]\n\n[Winner Name]! Congratulations! Please stand and head to Kent.\n\n[Winner stands / allow up to 10 seconds; redraw if absent]\n\n[Repeat for Winners 3–19]"
+      },
+      {
+        "row": 15,
+        "text": "And now, our 20th and final draw!\n\n[Randomize prize value / follow approved fixed sequence]\n\nPHP [PRIZE VALUE]! One last spin for the winner.\n\n[Spin the winner wheel]\n\n[Winner Name]! Congratulations! Please stand and head to Kent beside the stage.\n\n[Winner stands / allow up to 10 seconds; redraw if absent]\n\nLet’s give all 20 winners a round of applause!"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Best-Dressed · 4 finalists",
+    "time": "7:55 PM",
+    "blocks": [
+      {
+        "row": 16,
+        "text": "And that wraps up our Spin-the-Wheel! Congratulations to all 20 lucky winners. If your name was called, please proceed to the prize area beside the stage to claim your prize.\n\n[Spin-the-Wheel concludes / applause]\n\nBefore we begin our Awards and Recognition segment, we have one more special recognition for guests who truly dressed to impress.\n\nIt is time for our BEST-DRESSED AWARDS!\n\nTonight, we will recognize one Best-Dressed Male and one Best-Dressed Female. Four finalists have been selected, and our judges will make the final decision here tonight.\n\nFirst, let us acknowledge our Best-Dressed judges, who are seated at their tables.\n\nOur judges are Boss Emil Calangi and Ms. Nora Villanueva.\n\n[Applause]\n\nThank you, judges, for helping us select tonight’s winners.\n\n[Camille relays the four finalist names selected by Boss Emil and Ms. Nora to the Host and Stage Manager before this segment.]\n\n[Stage Manager stages the four finalists at the entrance arc and confirms a clear one-by-one walk path to the stage.]\n\nEach finalist will walk individually from the entrance arc through Stage Right, take a short fashion-show walk and pose, answer one brief question, then move to the marked lineup. The next finalist starts only after the walking lane is clear.\n\nFor Best-Dressed Male, our finalists are [MALE FINALIST 1] and [MALE FINALIST 2].\n\n[Male Finalist 1 enters via SR, walks the runway path one at a time, poses, answers one brief host question, then moves to the marked lineup position. Hold the next entrance until the path is clear.]\n\n[Male Finalist 2 enters via SR, walks the runway path one at a time, poses, answers one brief host question, then moves to the marked lineup position. Hold the next entrance until the path is clear.]\n\nFor Best-Dressed Female, our finalists are [FEMALE FINALIST 1] and [FEMALE FINALIST 2].\n\n[Female Finalist 1 enters via SR, walks the runway path one at a time, poses, answers one brief host question, then moves to the marked lineup position. Hold the next entrance until the path is clear.]\n\n[Female Finalist 2 enters via SR, walks the runway path one at a time, poses, answers one brief host question, then moves to the marked lineup position. Hold the next entrance until the path is clear.]\n\nLet us give all four finalists a big round of applause. Finalists, please remain onstage while our judges make their final decision."
+      },
+      {
+        "row": 17,
+        "text": "Thank you, finalists. Please remain in position while our judges finalize their decision.\n\n[Stage Manager confirms the judges’ final decision with the Host.]\n\nThe results are in. We will begin with BEST-DRESSED MALE.\n\nBoth finalists made a strong impression tonight, but one has been selected as our winner.\n\n[Pause]\n\nOur Best-Dressed Male is... [MALE WINNER]!\n\n[Winner steps forward from the finalist line / winner sting / applause]\n\nCongratulations, [MALE WINNER]. Please remain at the front of the stage.\n\nAnd now, for BEST-DRESSED FEMALE.\n\nOur Best-Dressed Female is... [FEMALE WINNER]!\n\n[Winner steps forward from the finalist line / winner sting / applause]\n\nCongratulations, [FEMALE WINNER]. Please join our Best-Dressed Male winner at the front of the stage.\n\n[Jessa Regal joins the winners onstage and presents the two Best-Dressed prizes.]\n\nCongratulations to our two Best-Dressed winners, and thank you to all four finalists for joining us on stage.\n\n[Non-winning finalists clear the stage. Winners remain at center stage.]\n\nLet us take an official photo with our Best-Dressed winners.\n\n[Photo lineup with Boss Emil, Ms. Nora, and Jessa to be confirmed with Camille before the show.]\n\nCongratulations once again to our Best-Dressed winners.\n\n[Presenters and winners clear the stage. Host resets at center stage for Awards and Recognition.]"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Awards & recognition",
+    "time": "8:15 PM",
+    "blocks": [
+      {
+        "row": 18,
+        "text": "[Applause]\n\nAnd now, we move on to a special part of our evening as we recognize the people and partnerships that have contributed to Topnatch Freight International Inc.’s journey over the years.\n\nOur Awards and Recognition segment gives us an opportunity to acknowledge the outstanding contributions of our clients, as well as the dedication and commitment of our employees.\n\nTo say a few words for tonight’s awardees and help us present the awards, please join me in welcoming back to the stage our CEO and President, Boss Imelda \"Emil\" M. Calangi, together with our Vice President of Finance, Ms. Nora Villanueva.\n\nPlease give them a warm round of applause as they join us on stage!\n\n[Boss Imelda \"Emil\" M. Calangi and Ms. Nora Villanueva proceed to the stage]\n\n[Boss Imelda \"Emil\" M. Calangi gives brief 1-minute message to the awardees]\n\nThank you, Boss Emil, for those words.\n\nAnd now, let’s begin with our first award, the SILVER AWARD.\n\nThis award recognizes our valued clients who have been with Topnatch Freight International Inc. for five years or more. Their continued trust and partnership have been an important part of the company’s journey, and tonight, we’re pleased to recognize them for that commitment.\n\nSo, let’s begin by recognizing our Silver Award recipients.\n\nOur first recipient is... MR. ROLAND WONG!\n\n[Continue in sequence of names]\n\n[Host may ad-lib between recipients: congratulate each awardee, encourage applause, acknowledge their years of partnership, or make brief comments as appropriate.]"
+      },
+      {
+        "row": 19,
+        "text": "BROADTEK MEDIA CO."
+      },
+      {
+        "row": 20,
+        "text": "WESTPAC MEAT PROCESSING CORP."
+      },
+      {
+        "row": 22,
+        "text": "FRABELLE MARKET CORP."
+      },
+      {
+        "row": 23,
+        "text": "GOLDEN BOOKS INTERNATIONAL TRADING INC."
+      },
+      {
+        "row": 24,
+        "text": "KENWA MICOM PHILIPPINES, INC."
+      },
+      {
+        "row": 25,
+        "text": "MR. JERVIS PO"
+      },
+      {
+        "row": 26,
+        "text": "BEAUTY KINGDOM MARKETING"
+      },
+      {
+        "row": 27,
+        "text": "CROSSPOINT INTERNATIONAL SALES & MARKETING CORP. / UNION HARDWARE FAR EAST CORP."
+      },
+      {
+        "row": 28,
+        "text": "[Applause]\n\nAnd now, we move on to our next level of recognition, the GOLD AWARD.\n\nThis award honors our valued clients who have been with Topnatch Freight International Inc. for 10 years or more. Their long-standing trust and partnership represent a significant part of the company’s journey, and we’re pleased to recognize them tonight.\n\nSo, let’s continue by recognizing our Gold Award recipients.\n\nOur first recipient is... PIONEER ADHESIVES INC.!\n\n[Applause]\n\n[Continue in sequence of names]\n\n[Host may ad-lib between recipients: congratulate each awardee, encourage applause, acknowledge their years of partnership, or make brief comments as appropriate.]"
+      },
+      {
+        "row": 29,
+        "text": "GRACELINE PRODUCTS INC."
+      },
+      {
+        "row": 30,
+        "text": "ELECTROWELD MANUFACTURING CORP.\n\n[Applause / award presentation / official photo]\n\nCongratulations once again to all our Gold Award recipients. Thank you for the trust and partnership you have shared with Topnatch Freight International Inc. through the years.\n\nAs we continue, we now turn from the partners who have grown with the company to the employees whose dedication has helped make that growth possible."
+      },
+      {
+        "row": 31,
+        "text": "[Applause]\n\nTonight, we also honor the people who have served Topnatch Freight International Inc. from within.\n\nThe DECADE OF DEDICATION AWARD recognizes employees who have devoted 10 years or more to the company. It celebrates their service, commitment, and contribution to Topnatch’s journey.\n\nLet us begin with our first recipient.\n\nOur first recipient is... REY GALIN!\n\n[Applause]\n\n[Continue in sequence of names]\n\n[Host may ad-lib between recipients: congratulate each awardee, acknowledge their years of service, share a brief positive remark, or encourage applause.]"
+      },
+      {
+        "row": 32,
+        "text": "GADDIEL GAN"
+      },
+      {
+        "row": 33,
+        "text": "SARAH HABAL"
+      },
+      {
+        "row": 34,
+        "text": "JAMES LAFORTEZA\n\n[Applause / award presentation / official photo]\n\nLOUIE REYES\n\n[Applause / award presentation / official photo]\n\nJESSA REGAL\n\n[Applause / award presentation / official photo]\n\nLet us give all our Decade of Dedication awardees another well-deserved round of applause.\n\n[Applause]\n\nBefore we conclude this recognition segment, Topnatch has one more very special surprise.\n\nTonight, we honor the person whose leadership has guided the company throughout its 30-year journey.\n\nMay we invite Ms. Nora Villanueva and Topnatch’s senior managers to join us onstage.\n\n[Senior managers on presentation pages 32–34: Jessa Regal, Sarah Habal, Louie Reyes, Cena Ventura, and Camille Cabujat. Boss Emil and Ms. Nora remain onstage. Host clears the lineup after the introduction: seven people onstage. Junior managers Joyce Abrazado, Alyssa Villanueva, and Princes Aguilar remain conditional pending a safe stage blocking check; all three would bring the lineup to ten, or eleven with the Host.]\n\n[Five senior managers walk onstage and line up; Host steps aside.]\n\nIt is our honor to present the 30 Years of Leadership Award to Boss Emil Calangi!\n\n[Applause / award presentation / official photo]\n\nCongratulations, Boss Emil, and thank you for 30 years of leadership, vision, and dedication."
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "title": "360 booth winners",
+    "time": "8:35 PM",
+    "blocks": [
+      {
+        "row": 35,
+        "text": "[Applause / Boss Emil award photo concludes]\n\nLet us give all our client and employee awardees—and Boss Emil—another well-deserved round of applause.\n\n[Applause]\n\nMay we ask Boss Emil Calangi and Ms. Nora Villanueva to remain onstage for the next prize presentation.\n\nWe now move from honoring years of achievement to celebrating two of tonight’s most creative moments.\n\nEntries for our 360° Photo Booth Contest closed at 8:00 PM. Our judges, Ms. Jessa Regal and Ms. Alyssa Villanueva, reviewed the qualified entries and selected one winning individual entry and one winning group entry.\n\nThe winning individual entry will receive PHP 3,000. The winning group entry—featuring two or more people—will receive PHP 5,000.\n\nThe judges have made their decision. Let us first watch the winning individual entry.\n\n[Winning Individual Entry Video GO on LED wall / video audio GO / Host clears sightline]\n\n[Video ends / applause]\n\nOur winning individual entry belongs to... [INDIVIDUAL WINNER NAME]!\n\n[Winner reveal sting / applause]\n\nCongratulations! Please join Boss Emil and Ms. Nora onstage to receive your PHP 3,000 cash prize and take the official photo.\n\n[Prize presentation / official photo]\n\nAnd now, let us watch the winning group entry.\n\n[Winning Group Entry Video GO on LED wall / video audio GO / Host clears sightline]\n\n[Video ends / applause]\n\nOur winning group entry belongs to... [GROUP WINNER NAME / GROUP NAME]!\n\n[Winner reveal sting / applause]\n\nCongratulations! Please join Boss Emil and Ms. Nora onstage to receive your PHP 5,000 cash prize and take the official photo.\n\n[Prize presentation / official photo]\n\nCongratulations to both winners, and thank you to everyone who joined the contest."
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "title": "Client raffle",
+    "time": "8:45 PM",
+    "blocks": [
+      {
+        "row": 36,
+        "text": "And while we’re on a roll, we have another special prize waiting to be claimed tonight.\n\nWe’ve already celebrated some fantastic achievements this evening, and now we’d like to recognize the clients and partners who have been an important part of our journey over the years.\n\nSo, it’s time for our Client Raffle!\n\nWe have one very special Grand Prize up for grabs tonight, and one lucky partner will be taking home a BRAND-NEW MACBOOK NEO, SILVER, 256 GB!\n\nFor this draw, the wheel contains eligible company names only. Individual names are not included, and the companies identified by Topnatch have been removed from the draw.\n\nBoss Emil Calangi and Ms. Nora Villanueva will present the prize to our winning company representative.\n\nAlright, let’s see which company will be our lucky winner!\n\n[Spin the client company wheel]\n\nAnd our Client Raffle winner is...\n\n[Pause / build suspense]\n\n[WINNING COMPANY NAME]!\n\n[Applause / reaction]\n\nCongratulations! May we invite the company representative to join Boss Emil and Ms. Nora onstage to receive the MacBook Neo, Silver, 256 GB.\n\n[Prize presentation / official photo]\n\nLet’s give our winning company another big round of applause!"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "title": "Employee raffle",
+    "time": "8:55 PM",
+    "blocks": [
+      {
+        "row": 37,
+        "text": "And now, we’re keeping the excitement going because we have three more prizes to give away tonight, and this time, they’re exclusively for our employees!\n\nIt’s time for our Employee Raffle Draw!\n\nThe employee winners will be selected through a completely random draw here onstage. The draw device and operator will be confirmed before the show.\n\nBoss Emil Calangi and Ms. Nora Villanueva will present the prizes.\n\nWe’ll start with our THIRD PRIZE: a staycation for TWO at Okada Manila!\n\nWho wouldn’t want a little getaway?\n\n[Brief audience reaction / ad-lib]\n\nLet’s find out who gets to enjoy this well-deserved escape!\n\n[Conduct onstage random draw]\n\nOur Third Prize winner is... [Winner Name]!\n\n[Pause for reaction / applause]\n\nCongratulations! Please join Boss Emil and Ms. Nora onstage to claim your prize.\n\n[Prize presentation / photo / winner exits]\n\nLet’s keep things going with our SECOND PRIZE!\n\nThis time, we’re giving away PHP 30,000 IN CASH!\n\n[Pause / audience reaction]\n\n[Conduct onstage random draw]\n\nOur Second Prize winner is... [Winner Name]!\n\n[Pause for reaction / applause]\n\nCongratulations! Please join Boss Emil and Ms. Nora onstage to claim your prize.\n\n[Prize presentation / photo / winner exits]\n\nAnd now, we’ve reached the moment everyone has been waiting for—our GRAND PRIZE!\n\nOne very lucky employee will be going home tonight with a BRAND-NEW HONDA CLICK 125!\n\n[Pause for audience reaction / build suspense]\n\nThat’s right—a Honda Click 125!"
+      },
+      {
+        "row": 38,
+        "text": "So, let’s conduct our final draw and find out who’s taking home the biggest prize of the night!\n\n[Conduct onstage random draw / build suspense]\n\nAlright, Boss Emil, let’s find out who our lucky winner is!\n\n[Boss Emil conducts the final onstage draw and gives the name to the Host / reads the name]\n\nOkay... this is the big one.\n\n[Pause / look around the room]\n\nAre we ready?\n\n[Pause for audience response]\n\nLet’s have a drumroll, please!\n\n[Drumroll]\n\nAnd our Grand Prize winner is...\n\n[Pause / build suspense]\n\n[Winner Name]!\n\n[Applause / reaction]\n\nWow! Congratulations, [Winner Name]! Please join us on stage as our CEO and President presents you with your brand-new Honda Click 125!\n\nLet’s give our Grand Prize winner a massive round of applause!\n\n[Prize presentation / photos]"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "title": "Audience interaction",
+    "time": "9:05 PM",
+    "blocks": [
+      {
+        "row": 39,
+        "text": "And once again, congratulations to [Winner Name] on your Honda Click 125! Let’s give our raffle winners another well-deserved round of applause!\n\n[Applause]\n\n[Host looks around the room]\n\nWe’ve still got everyone with us, so let’s have a little fun.\n\n[Ad-lib: Engage with the audience about the food, music, prizes, or their reactions to the raffle. Ask simple questions and encourage audience responses.]\n\n[Pause / audience interaction]\n\n[Ad-lib: React naturally to the audience. You can acknowledge different tables or groups, make a light observation about the room, or invite a brief response.]\n\n[Pause / audience interaction]\n\n[Ad-lib: Continue engaging with the room. If the audience is responsive, play off their reactions and keep the conversation going.]\n\n[Pause / wait for production cue]"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Same Day Edit",
+    "time": "9:10 PM",
+    "blocks": [
+      {
+        "row": 40,
+        "text": "And after all the excitement tonight, we thought it would be a perfect time to look back at some of the moments that made this evening special.\nPlease direct your attention to the screen as we take a look back through our Same Day Edit presentation.\n\nEnjoy!"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "title": "Boss Emil closing remarks",
+    "time": "9:20 PM",
+    "blocks": [
+      {
+        "row": 41,
+        "text": "What a wonderful way to look back on the evening.\n\nAnd before we officially bring tonight’s program to a close, please welcome back to the stage our CEO and President!"
+      },
+      {
+        "row": 42,
+        "text": "(CLOSING REMARKS)"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "title": "Closing prayer",
+    "time": "9:30 PM",
+    "blocks": [
+      {
+        "row": 43,
+        "text": "Thank you so much for those wonderful remarks.\n\nAs we come to the final part of our program, let us take a moment to pause and give thanks. To lead us in our closing prayer, may I invite Pastor Jhun Esguerra to the stage.\n\nPastor Jhun Esguerra, please join us!\n\n[Pastor Jhun Esguerra proceeds to the stage]"
+      },
+      {
+        "row": 44,
+        "text": "(PRAYER)"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "title": "Official adjournment",
+    "time": "9:35 PM",
+    "blocks": [
+      {
+        "row": 45,
+        "text": "Thank you, Pastor Jhun, for leading us in our closing prayer.\n\nAnd with that, we officially conclude tonight’s program. But before everyone heads home, there’s still time to relax and enjoy the rest of the evening.\n\nThe food stations and 360° Photo Booth will remain open until 10:00 PM, so please feel free to stay, grab another bite, take some photos, and spend a little more time with your friends and colleagues.\n\nThank you once again for being here with us tonight. Have a wonderful evening, everyone!"
+      },
+      {
+        "row": 46,
+        "text": "(FREE TIME/2ND BAND SET)"
+      }
+    ]
+  }
+]
